@@ -1,58 +1,40 @@
-## **ESPE2410-OOPSW1973**
+### ESPE0711-OOPSW1973-noOvertime
 
-Repository for the class of Object-Oriented Programming at ESPE in 2024-10-28
+Repository for the class of Object-Oriented Programming at ESPE in 2024 11 07
 
-*Homework
+- Homework
+- Exams
+- Projects
+- Workshops
+- Other documents
 
-*Workshops
+**Authors:**
 
-*Exams
+- Klever Jami
+- Jose Leiton
+- Gabriel Manosalvas
+- Gabriel Jardel
 
-*Projects
+**Instructor:** Edison Lascano
 
-*Other documets
+**Project title:**
 
-Author Edison Lascano Instructor: Edison Lascano
+# CondoManage: Comprehensive Condominium Management Platform
 
-#Project Title
+## Description
 
-Management 
+Repository for uploading student's code for Back-end and Front-end projects, assignments, workshops, and other documentation.
 
-#Description
-
-Repository for uploading students' code for Back-end and Front-end projects, assignments and workshops
-
-#Getting Started
-
-#Dependencies
+### Dependencies
 
 JDK 23, Netbeans 23, MongoDb Atlas
 
-#Installing
+### Installing
 
-*JDK
+- JDK
+- Visual Studio Code
+- Netbeans
 
-*Visual Studio code
-
-*Netbeans
-
-#Executing program
-
-
-#Authors
-
-*Jami Klever
-
-*Leiton Jose
-
-*Manosalvas Gabriel
-
-*Maza Jardel
-
-0.1
-
-#License
+### License
 
 Free
-
-#Acknowledgments
